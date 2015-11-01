@@ -11,7 +11,7 @@ Package.onUse(function(api) {
   api.use([
       'coffeescript',
       'ejson',
-      'momentjs:moment',
+      'momentjs:moment@2.10.6',
   ]);
   api.addFiles('moment-ejson.coffee');
 });
