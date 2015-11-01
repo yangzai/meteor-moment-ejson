@@ -1,8 +1,10 @@
-#Meteor EJSON Support for Moment.js
+Meteor EJSON Support for Moment.js
+==================================
 
 Reimplementation of [mrt:moment-ejson](atmospherejs.com/mrt/moment-ejson).
 
-##Installation
+## Installation
+
 ```sh
 $ meteor add yangzai:moment-ejson
 ```
