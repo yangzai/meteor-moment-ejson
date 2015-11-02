@@ -1,7 +1,7 @@
 Meteor EJSON Support for Moment.js
 ==================================
 
-Reimplementation of [mrt:moment-ejson](atmospherejs.com/mrt/moment-ejson).
+Reimplementation of [mrt:moment-ejson](https://atmospherejs.com/mrt/moment-ejson).
 
 ## Installation
 
